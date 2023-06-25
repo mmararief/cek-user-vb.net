@@ -1,0 +1,16 @@
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.vbproj.AssemblyReference.cache
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.vbproj.SuggestedBindingRedirects.cache
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.Form1.resources
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.Resources.resources
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.vbproj.GenerateResource.cache
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.vbproj.CoreCompileInputs.cache
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\cekapigame.exe.config
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\cekapigame.exe
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\cekapigame.pdb
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\cekapigame.xml
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arief\source\repos\cekapigame\cekapigame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.vbproj.CopyComplete
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.exe
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.xml
+C:\Users\arief\source\repos\cekapigame\cekapigame\obj\Debug\cekapigame.pdb
